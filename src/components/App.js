@@ -1,5 +1,4 @@
 // create your App component here
-// create your App component here
 import React ,{useState, useEffect}from 'react'
 
 const App = () => {
